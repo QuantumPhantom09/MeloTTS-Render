@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchaudio
+soundfile
+scipy
+transformers
+accelerate
+bitsandbytes
